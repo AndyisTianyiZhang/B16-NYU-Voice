@@ -1,4 +1,4 @@
-NYU Voice is a web-based application designed for communication and social life between members of the NYU community. N
+NYU Voice is a web-based application designed for communication and social life between members of the NYU community.
 
 NYU Voice provides authentic, reliable, and credible content as a reliable source of information for members of the NYU community. The project would allow students to share course information and review, rating restaurants, and build their network with each other to reach the goal of promoting an inclusive and peaceful community. NYU Voice shall use specific methods to verify that the user is within the NYU community, such as verifying the email address or NYU Albert and will link their account with an official NYU account. The project shall include the following functions: 
 - NYU Voice Account Registration
