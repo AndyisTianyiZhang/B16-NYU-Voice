@@ -10,4 +10,4 @@ The platform will allow users to create a personal profile with their nicknames 
 
 For NYU faculty, students, or alumni, each would have different access depending on their identity. NYU students could write class reviews for classes they had already taken. Professors or students not related to this course may not have access to the review page. 
 
-As a software-only product, NYU Voice is covered by the standard, which applies to all forms of software products, including web applications, infrastructure, and operational scripts. The SDD for NYU Voice is delivered as part of the software product release package.
+As a software-only product, NYU Voice is covered by the standard, which applies to all forms of software products, including web applications, infrastructure, and operational scripts.
